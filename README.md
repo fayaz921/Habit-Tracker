@@ -1,5 +1,7 @@
 # Habit Tracker
 
+**Live Demo:** https://habit-tracker-fayaz.vercel.app/
+
 A modern, responsive habit tracker web application built with React, Vite, Bootstrap 5, and date-fns. Track your daily habits with a weekly grid interface, view streaks, and persist data across sessions using localStorage.
 
 ## Tech Stack

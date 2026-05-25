@@ -3,6 +3,10 @@
 ## 1. How to run
 To run this habit tracker application on a fresh machine:
 
+**Live Demo:** https://habit-tracker-fayaz.vercel.app/
+
+To run locally:
+
 1. Ensure you have Node.js (version 16 or higher) and npm installed
 2. Clone or download this repository to your local machine
 3. Navigate to the project directory in your terminal
